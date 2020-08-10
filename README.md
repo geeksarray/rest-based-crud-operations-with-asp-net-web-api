@@ -16,4 +16,4 @@ calling GET method of ASP.NET Web API
 
 ![ASP.NET Web API GET method](http://dotnetmentors.com/Images/restful-crud-operation-for-getallcustomers.png)
 
-For more details on Repository pattern visit - https://geeksarray.com/blog/rest-based-crud-operations-with-asp-net-web-api.aspx
+For more details on Repository pattern visit - https://geeksarray.com/blog/rest-based-crud-operations-with-asp-net-web-api
